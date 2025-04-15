@@ -2465,26 +2465,26 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.
 <part uuid="2882400012" name="SJ1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="SJ" device=""/>
 <part uuid="2882400020" name="PFMF.050.1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32C6_VARISTOR" device="CN1812"/>
 <part uuid="2882400016" name="R2-USB1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="5k1"/>
-<part name="R2-USB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="5k1"/>
+<part uuid="2882400038" name="R2-USB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="5k1"/>
 <part uuid="2882400034" name="U3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="DS3231SN#" device=""/>
-<part name="D7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0_0" device="AVX_SD0805S020S1R0_0_0"/>
-<part name="TP1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
-<part name="TP2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
-<part name="TP3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
-<part name="TP4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
-<part name="TP5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
-<part name="TP6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
-<part name="TP7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
-<part name="TP8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
-<part name="TP9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
-<part name="TP10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
-<part name="TP11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
-<part name="TP12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
-<part name="TP13" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
-<part name="TP14" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
-<part name="TP15" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
-<part name="TP16" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
-<part name="TP17" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400134" name="D7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_AVX---SD0805S020S1R0_AVX_SD0805S020S1R0_0_0" device="AVX_SD0805S020S1R0_0_0"/>
+<part uuid="2882400032" name="TP1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400132" name="TP2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400138" name="TP3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400166" name="TP4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400136" name="TP5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400178" name="TP6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400176" name="TP7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400182" name="TP8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400180" name="TP9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400186" name="TP10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400184" name="TP11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400190" name="TP12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400188" name="TP13" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400162" name="TP14" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400160" name="TP15" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400142" name="TP16" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
+<part uuid="2882400140" name="TP17" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="TP" device="TP20R"/>
 <part uuid="2882400060" name="J3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="QWIIC_CONNECTOR" device="JS-1MM" package3d_urn="urn:adsk.eagle:package:41390393/1" value="QWIIC_RIGHT_ANGLE"/>
 <part name="GND1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part uuid="2882400056" name="U1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="W25Q512JVEIQ" device=""/>
@@ -2499,148 +2499,187 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/USBLC6-2SC6Y.
 <part name="GND5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
-<part name="C4_USB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100NF"/>
-<part name="C5_USB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF"/>
+<part uuid="2882400035" name="C4_USB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100NF"/>
+<part uuid="2882400036" name="C5_USB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF"/>
 <part name="GND8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
-<part name="R1_PWRUSB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="100k"/>
+<part uuid="2882400042" name="R1_PWRUSB" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="100k"/>
 <part name="GND9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
-<part name="C1_BAT1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF"/>
-<part name="C1_BAT2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF"/>
-<part name="C3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="RCL_CPOL-EU" device="CT3528" value="100uF TANT"/>
+<part uuid="2882400040" name="C1_BAT1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF"/>
+<part uuid="2882400046" name="C1_BAT2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF"/>
+<part uuid="2882400080" name="C3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="RCL_CPOL-EU" device="CT3528" value="100uF TANT"/>
 <part name="GND11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND13" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
-<part name="C9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
+<part uuid="2882400044" name="C9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
 <part name="SUPPLY1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="GND14" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND15" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
-<part name="R2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="2.2"/>
+<part uuid="2882400082" name="R2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="2.2"/>
 <part name="GND16" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND17" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
-<part name="R3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="0.47"/>
-<part name="R4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
+<part uuid="2882400094" name="R3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="0.47"/>
+<part uuid="2882400088" name="R4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
 <part uuid="2882400022" name="C7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="10uF"/>
-<part name="C4_USB2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF/25V"/>
+<part uuid="2882400090" name="C4_USB2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF/25V"/>
 <part uuid="2882400008" name="D3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="MBR0530" device=""/>
-<part name="D4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="MBR0530" device=""/>
-<part name="D5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="MBR0530" device=""/>
+<part uuid="2882400086" name="D4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="MBR0530" device=""/>
+<part uuid="2882400084" name="D5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="MBR0530" device=""/>
 <part uuid="2882400014" name="L1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="744043680" device="IND_4828-WE-TPC_WRE" value="68uH"/>
 <part name="GND18" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
-<part name="C1_BAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF"/>
+<part uuid="2882400070" name="C1_BAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF"/>
 <part name="GND19" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
-<part name="R1_BAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="200"/>
+<part uuid="2882400064" name="R1_BAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="200"/>
 <part uuid="2882400004" name="CHG_LED" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ADAFRUIT_LED" device="CHIP-LED0603"/>
-<part name="R2_BAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="2k"/>
+<part uuid="2882400066" name="R2_BAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="2k"/>
 <part name="GND20" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND21" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND22" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
-<part name="C2_BAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF"/>
+<part uuid="2882400164" name="C2_BAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="4.7uF"/>
 <part name="SUPPLY3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
-<part name="R5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
+<part uuid="2882400092" name="R1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
 <part name="GND23" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND24" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND25" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND26" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
-<part name="EPD_C1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
-<part name="EPD_C2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
-<part name="EPD_C5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
-<part name="EPD_C6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
-<part name="EPD_C7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
-<part name="EPD_C8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
-<part name="EPD_C9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
+<part uuid="2882400122" name="EPD_C1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
+<part uuid="2882400116" name="EPD_C2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
+<part uuid="2882400118" name="EPD_C5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
+<part uuid="2882400112" name="EPD_C6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
+<part uuid="2882400114" name="EPD_C7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
+<part uuid="2882400076" name="EPD_C8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
+<part uuid="2882400078" name="EPD_C9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
 <part name="GND27" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="SUPPLY4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="SUPPLY5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
-<part name="R_CL1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
-<part name="Q2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
-<part name="R2-PINH" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
-<part name="R1_PINH" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
+<part uuid="2882400120" name="R_CL1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
+<part uuid="2882400126" name="Q2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="-DMG2305UX-7" value="20V/4.2A/52mΩ/1.4W"/>
+<part uuid="2882400175" name="R2-PINH" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
+<part uuid="2882400173" name="R1_PINH" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
 <part name="GND28" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND29" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND30" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
-<part name="C2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
-<part name="C1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
+<part uuid="2882400168" name="C2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
+<part uuid="2882400170" name="C1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
 <part name="SUPPLY6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="SUPPLY7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="SUPPLY8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
-<part name="R_RESET" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
-<part name="R_BOOT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
-<part name="R_CHANGE" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
+<part uuid="2882400146" name="R_RESET" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
+<part uuid="2882400110" name="R_BOOT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
+<part uuid="2882400108" name="R_CHANGE" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10K"/>
 <part name="GND31" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND32" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND33" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND34" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="SUPPLY9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part uuid="2882400054" name="IC1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="BD5229G-TR" device=""/>
-<part name="C_DELAY" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
+<part uuid="2882400144" name="C_DELAY" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
 <part name="GND35" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part uuid="2882400052" name="RESET_BUTTON" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="BUTTON_CUSYOMV1" device=""/>
-<part name="C5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF"/>
-<part name="C10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
-<part name="C6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
-<part name="BOOT_BUTTON" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="BUTTON_CUSYOMV1" device=""/>
-<part name="CHANGE_BUTTON" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="BUTTON_CUSYOMV1" device=""/>
+<part uuid="2882400106" name="C5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF"/>
+<part uuid="2882400100" name="C10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
+<part uuid="2882400104" name="C6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
+<part uuid="2882400096" name="BOOT_BUTTON" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="BUTTON_CUSYOMV1" device=""/>
+<part uuid="2882400102" name="CHANGE_BUTTON" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="BUTTON_CUSYOMV1" device=""/>
 <part name="GND36" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND37" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND38" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="GND39" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part name="SUPPLY10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="SUPPLY11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
-<part name="R_CAPACITOR" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="15"/>
-<part name="R1_PINH1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
-<part name="R2_PINH1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
+<part uuid="2882400124" name="R_CAPACITOR" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="15"/>
+<part uuid="2882400128" name="R1_PINH1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
+<part uuid="2882400130" name="R2_PINH1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
 <part name="SUPPLY12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
-<part name="C8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
+<part uuid="2882400098" name="C8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
 <part name="GND40" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
-<part name="C10_SUPERCAP" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="CPH3225A" device=""/>
+<part uuid="2882400169" name="C10_SUPERCAP" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="CPH3225A" device=""/>
 <part name="SUPPLY13" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
-<part name="R8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
-<part name="R7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
-<part name="R6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
-<part name="R2_PINH5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
-<part name="R9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
-<part name="R10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
+<part uuid="2882400150" name="R8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
+<part uuid="2882400148" name="R7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
+<part uuid="2882400154" name="R6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
+<part uuid="2882400152" name="R5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
+<part uuid="2882400158" name="R9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
+<part uuid="2882400156" name="R10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="R0402" value="10k"/>
 <part name="SUPPLY14" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="GND41" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
-<part name="D12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="PGB1010603MR" device=""/>
-<part name="D11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="PGB1010603MR" device=""/>
-<part name="D10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="PGB1010603MR" device=""/>
+<part uuid="2882400211" name="D12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="PGB1010603MR" device=""/>
+<part uuid="2882400209" name="D11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="PGB1010603MR" device=""/>
+<part uuid="2882400215" name="D10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="PGB1010603MR" device=""/>
 <part uuid="2882400062" name="D9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="PGB1010603MR" device=""/>
-<part name="D6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="PGB1010603MR" device=""/>
-<part name="D8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="PGB1010603MR" device=""/>
+<part uuid="2882400219" name="D6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="PGB1010603MR" device=""/>
+<part uuid="2882400213" name="D8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="PGB1010603MR" device=""/>
 <part name="SUPPLY15" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="SUPPLY16" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="GND42" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
 <part uuid="2882400026" name="D1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="USBLC6-2SC6Y" device=""/>
 <part name="SUPPLY17" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="3V3-CIRCLE" device="" value="3V3"/>
 <part name="GND43" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="GND" device=""/>
-<part name="EPD_C10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
-<part name="EPD_C11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
-<part name="EPD_C12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
+<part uuid="2882400072" name="EPD_C10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
+<part uuid="2882400074" name="EPD_C11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
+<part uuid="2882400068" name="EPD_C12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.AqS-utAFRE-e8PO2BwPRSw" deviceset="EAGLE-LTSPICE_C" device="C0402" value="1uF/50V"/>
 </parts>
 <sheets>
 <sheet>
 <plain>
 <text x="-182.88" y="121.92" size="2.54" layer="91">USB C connector &amp; ESD protection</text>
-<text x="-35.56" y="121.92" size="2.54" layer="91">LDO Voltage Regulator</text>
+<text x="-30.48" y="121.92" size="2.54" layer="91">LDO Voltage Regulator</text>
 <text x="96.52" y="121.92" size="2.54" layer="91">SD Card</text>
 <text x="91.44" y="76.2" size="2.54" layer="91"> ESP32 C6</text>
 <text x="-182.88" y="55.88" size="2.54" layer="91">Display Type Selector</text>
 <text x="-116.84" y="55.88" size="2.54" layer="91">E-Paper Drive Circuit</text>
-<text x="-27.94" y="53.34" size="2.54" layer="91">Li-Po Battery Charging Controller</text>
+<text x="-27.94" y="55.88" size="2.54" layer="91">Li-Po Battery Charging Controller</text>
 <text x="-185.42" y="15.24" size="2.54" layer="91">E-Paper Display Header</text>
 <text x="-104.14" y="15.24" size="2.54" layer="91">EPD Power</text>
 <text x="-50.8" y="15.24" size="2.54" layer="91">Environmental Sensor BME688</text>
 <text x="35.56" y="12.7" size="2.54" layer="91">Voltage Supervisor + Reset &amp; 
 Boot / IO Button</text>
-<text x="124.46" y="15.24" size="2.54" layer="91">Battery Charge Level</text>
-<text x="114.3" y="-68.58" size="2.54" layer="91">External NOR Flash 64MB</text>
-<text x="40.64" y="-68.58" size="2.54" layer="91">SPI ESD Protection Lines</text>
-<text x="5.08" y="-76.2" size="2.54" layer="91">Qwiic /
+<text x="127" y="15.24" size="2.54" layer="91">Battery Charge Level</text>
+<text x="109.22" y="-68.58" size="2.54" layer="91">External NOR Flash 64MB</text>
+<text x="38.1" y="-68.58" size="2.54" layer="91">SPI ESD Protection Lines</text>
+<text x="5.08" y="-73.66" size="2.54" layer="91">Qwiic /
  Stemma QT</text>
-<text x="-38.1" y="-66.04" size="2.54" layer="91">Test Pads</text>
+<text x="-53.34" y="-68.58" size="2.54" layer="91">Test Pads</text>
 <text x="-185.42" y="-68.58" size="2.54" layer="91">RTC Module DS3231SN</text>
+<wire x1="86.36" y1="63.5" x2="-30.48" y2="63.5" width="0.1524" layer="97"/>
+<wire x1="-30.48" y1="63.5" x2="-38.1" y2="63.5" width="0.1524" layer="97"/>
+<wire x1="-38.1" y1="63.5" x2="-134.62" y2="63.5" width="0.1524" layer="97"/>
+<wire x1="-134.62" y1="63.5" x2="-189.189271875" y2="63.5" width="0.1524" layer="97"/>
+<wire x1="-38.1" y1="127" x2="-38.1" y2="63.5" width="0.1524" layer="97"/>
+<wire x1="86.36" y1="20.32" x2="27.94" y2="20.32" width="0.1524" layer="97"/>
+<wire x1="27.94" y1="20.32" x2="-30.48" y2="20.32" width="0.1524" layer="97"/>
+<wire x1="-109.22" y1="20.32" x2="-134.62" y2="20.32" width="0.1524" layer="97"/>
+<wire x1="-134.62" y1="20.32" x2="-189.049075" y2="20.32" width="0.1524" layer="97"/>
+<wire x1="-134.62" y1="63.5" x2="-134.62" y2="20.32" width="0.1524" layer="97"/>
+<wire x1="-30.48" y1="63.5" x2="-30.48" y2="20.32" width="0.1524" layer="97"/>
+<wire x1="86.36" y1="63.5" x2="86.36" y2="20.32" width="0.1524" layer="97"/>
+<wire x1="86.36" y1="63.5" x2="86.36" y2="81.28" width="0.1524" layer="97"/>
+<wire x1="86.36" y1="127" x2="86.36" y2="81.28" width="0.1524" layer="97"/>
+<wire x1="86.36" y1="81.28" x2="190.5" y2="81.28" width="0.1524" layer="97"/>
+<wire x1="190.5" y1="81.28" x2="190.5" y2="20.32" width="0.1524" layer="97"/>
+<wire x1="190.5" y1="20.32" x2="124.46" y2="20.32" width="0.1524" layer="97"/>
+<wire x1="86.36" y1="20.32" x2="124.46" y2="20.32" width="0.1524" layer="97"/>
+<wire x1="124.46" y1="20.32" x2="124.46" y2="-63.5" width="0.1524" layer="97"/>
+<wire x1="124.46" y1="-63.5" x2="104.14" y2="-63.5" width="0.1524" layer="97"/>
+<wire x1="104.14" y1="-63.5" x2="33.02" y2="-63.5" width="0.1524" layer="97"/>
+<wire x1="27.94" y1="-63.5" x2="2.54" y2="-63.5" width="0.1524" layer="97"/>
+<wire x1="2.54" y1="-63.5" x2="-55.88" y2="-63.5" width="0.1524" layer="97"/>
+<wire x1="-55.88" y1="-63.5" x2="-68.90163125" y2="-63.5" width="0.1524" layer="97"/>
+<wire x1="-189.220553125" y1="-63.5" x2="-109.22" y2="-63.5" width="0.1524" layer="97"/>
+<wire x1="-109.22" y1="-63.5" x2="-68.90163125" y2="-63.5" width="0.1524" layer="97"/>
+<wire x1="-68.90163125" y1="-63.5" x2="-68.90163125" y2="-125.596028125" width="0.1524" layer="97"/>
+<wire x1="2.54" y1="-63.5" x2="2.54" y2="-125.790690625" width="0.1524" layer="97"/>
+<wire x1="2.54" y1="-125.790690625" x2="33.02" y2="-125.790690625" width="0.1524" layer="97"/>
+<wire x1="33.02" y1="-125.790690625" x2="33.02" y2="-63.5" width="0.1524" layer="97"/>
+<wire x1="104.14" y1="-105.400946875" x2="104.14" y2="-63.5" width="0.1524" layer="97"/>
+<wire x1="124.46" y1="-63.5" x2="190.5" y2="-63.5" width="0.1524" layer="97"/>
+<wire x1="33.02" y1="-63.5" x2="27.94" y2="-63.5" width="0.1524" layer="97"/>
+<wire x1="27.94" y1="-63.5" x2="27.94" y2="20.32" width="0.1524" layer="97"/>
+<wire x1="-30.48" y1="20.32" x2="-55.88" y2="20.32" width="0.1524" layer="97"/>
+<wire x1="-55.88" y1="20.32" x2="-109.22" y2="20.32" width="0.1524" layer="97"/>
+<wire x1="-109.22" y1="20.32" x2="-109.22" y2="-63.5" width="0.1524" layer="97"/>
+<wire x1="-55.88" y1="20.32" x2="-55.88" y2="-63.5" width="0.1524" layer="97"/>
+<text x="185.42" y="-114.3" size="1.778" layer="97">69</text>
 </plain>
 <instances>
 <instance part="J2" gate="G$1" x="-154.94" y="101.6" smashed="yes">
@@ -2648,7 +2687,6 @@ Boot / IO Button</text>
 </instance>
 <instance part="FRAME1" gate="G$1" x="-193.04" y="-129.54" smashed="yes">
 <attribute name="DRAWING_NAME" x="151.13" y="-114.3" size="2.54" layer="94"/>
-<attribute name="LAST_DATE_TIME" x="151.13" y="-119.38" size="2.286" layer="94"/>
 <attribute name="SHEET" x="164.465" y="-124.46" size="2.54" layer="94"/>
 </instance>
 <instance part="D2" gate="G$0" x="-22.86" y="101.6" smashed="yes">
@@ -2952,7 +2990,7 @@ Boot / IO Button</text>
 <instance part="SUPPLY3" gate="G$1" x="91.44" y="58.42" smashed="yes">
 <attribute name="VALUE" x="91.313" y="61.595" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="R5" gate="G$1" x="91.44" y="40.64" smashed="yes" rot="R270">
+<instance part="R1" gate="G$1" x="91.44" y="40.64" smashed="yes" rot="R270">
 <attribute name="NAME" x="92.9386" y="44.45" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="88.138" y="44.45" size="1.778" layer="96" rot="R270"/>
 <attribute name="NAME" x="92.9386" y="44.45" size="1.778" layer="95" rot="R270"/>
@@ -3166,7 +3204,7 @@ Boot / IO Button</text>
 <attribute name="NAME" x="56.9214" y="-87.63" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="61.722" y="-87.63" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R2_PINH5" gate="G$1" x="68.58" y="-83.82" smashed="yes" rot="R90">
+<instance part="R5" gate="G$1" x="68.58" y="-83.82" smashed="yes" rot="R90">
 <attribute name="NAME" x="67.0814" y="-90.17" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="71.882" y="-87.63" size="1.778" layer="96" rot="R90"/>
 </instance>
@@ -3815,7 +3853,7 @@ Boot / IO Button</text>
 <segment>
 <pinref part="SUPPLY3" gate="G$1" pin="3V3"/>
 <wire x1="91.44" y1="55.88" x2="91.44" y2="45.72" width="0.1524" layer="91"/>
-<pinref part="R5" gate="G$1" pin="1"/>
+<pinref part="R1" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="SUPPLY5" gate="G$1" pin="3V3"/>
@@ -3871,7 +3909,7 @@ Boot / IO Button</text>
 <wire x1="58.42" y1="-73.66" x2="58.42" y2="-78.74" width="0.1524" layer="91"/>
 <pinref part="R6" gate="G$1" pin="2"/>
 <wire x1="68.58" y1="-73.66" x2="68.58" y2="-78.74" width="0.1524" layer="91"/>
-<pinref part="R2_PINH5" gate="G$1" pin="2"/>
+<pinref part="R5" gate="G$1" pin="2"/>
 <wire x1="78.74" y1="-73.66" x2="78.74" y2="-78.74" width="0.1524" layer="91"/>
 <pinref part="R9" gate="G$1" pin="2"/>
 <wire x1="88.9" y1="-73.66" x2="88.9" y2="-78.74" width="0.1524" layer="91"/>
@@ -3929,7 +3967,7 @@ Boot / IO Button</text>
 <label x="-10.16" y="-76.2" size="1.778" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
-<net name="EPD_3V3" class="0">
+<net name="EPD_3V3" class="1">
 <segment>
 <pinref part="C7" gate="G$1" pin="1"/>
 <wire x1="-119.38" y1="40.64" x2="-119.38" y2="43.18" width="0.1524" layer="91"/>
@@ -4078,7 +4116,7 @@ Boot / IO Button</text>
 </net>
 <net name="GPIO8" class="0">
 <segment>
-<pinref part="R5" gate="G$1" pin="2"/>
+<pinref part="R1" gate="G$1" pin="2"/>
 <wire x1="91.44" y1="35.56" x2="96.52" y2="35.56" width="0.1524" layer="91"/>
 <pinref part="U2" gate="G$1" pin="IO8"/>
 <wire x1="96.52" y1="35.56" x2="116.84" y2="35.56" width="0.1524" layer="91"/>
@@ -4454,7 +4492,7 @@ Boot / IO Button</text>
 <label x="121.92" y="-83.82" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R2_PINH5" gate="G$1" pin="1"/>
+<pinref part="R5" gate="G$1" pin="1"/>
 <wire x1="68.58" y1="-88.9" x2="68.58" y2="-96.52" width="0.1524" layer="91"/>
 <pinref part="D9" gate="G$1" pin="1"/>
 <wire x1="68.58" y1="-96.52" x2="68.58" y2="-99.06" width="0.1524" layer="91"/>
@@ -4521,7 +4559,7 @@ Boot / IO Button</text>
 <label x="-175.26" y="-76.2" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="I2C_PW" class="0">
+<net name="I2C_PW" class="1">
 <segment>
 <pinref part="U2" gate="G$1" pin="IO19"/>
 <wire x1="157.48" y1="40.64" x2="160.02" y2="40.64" width="0.1524" layer="91"/>
@@ -4566,7 +4604,7 @@ Boot / IO Button</text>
 <label x="12.7" y="-38.1" size="1.778" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
-<net name="EPD_3V3_C" class="0">
+<net name="EPD_3V3_C" class="1">
 <segment>
 <pinref part="U2" gate="G$1" pin="IO20"/>
 <wire x1="157.48" y1="38.1" x2="160.02" y2="38.1" width="0.1524" layer="91"/>
